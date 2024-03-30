@@ -13,7 +13,7 @@ The API is hosted at [https://final-1-gjn9.onrender.com/].
 - Auth0 (for authentication)
 
 ### Local Development Setup:
-1. Clone the repository from [repository_url].
+1. Clone the repository from [https://github.com/Neha-Konduru/final.git].
 2. Navigate to the project directory.
 3. Install dependencies using `pip install -r requirements.txt`.
 4. Set up the Auth0 configuration:
