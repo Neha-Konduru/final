@@ -4,7 +4,7 @@
 This project aims to provide an API for managing actors and movies in a casting agency. It allows authorized users to perform CRUD operations on actors and movies based on their roles.
 
 ### Hosted API URL:
-The API is hosted at [API_URL_HERE].
+The API is hosted at [https://final-1-gjn9.onrender.com/].
 
 ### Project Dependencies:
 - Flask
